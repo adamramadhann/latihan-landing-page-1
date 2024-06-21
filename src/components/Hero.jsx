@@ -5,7 +5,7 @@ const Hero = () => {
    <>
     <div className={`flex flex-col items-center justify-center mt-9 mb-10`} id='home'>
         <div >
-        <h1 className={`top-72 capitalize text-[25px] font-bold mb-0`}>curso</h1>
+        <h1 className={`top-72 capitalize text-[25px] font-bold mb-0`}>cursi</h1>
         <p className={`text-[11px] -mt-2`}>academy</p>
         </div>
     </div>
